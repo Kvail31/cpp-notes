@@ -14,7 +14,7 @@ including programming, algorithms, and related notes.
 ## Learning Progress
 - [x] C++ basic syntax
 - [x] Variables
-- [ ] Input and output
+- [x] Input and output
 - [ ] Control flow
 - [ ] Loops
 - [ ] Functions
