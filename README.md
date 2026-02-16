@@ -17,6 +17,6 @@ including programming, algorithms, and related notes.
 - [x] Input and output
 - [ ] Control flow
 - [ ] Loops
-- [ ] Functions
+- [x] Functions
 
 This repository is for learning purposes and will be updated gradually.
