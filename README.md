@@ -18,5 +18,11 @@ including programming, algorithms, and related notes.
 - [ ] Control flow
 - [ ] Loops
 - [x] Functions
+## Learning Progress
+- [x] Arrays
+- [x] if / else
+- [x] Functions
+- [ ] Linked List
+- [ ] Stack
 
 This repository is for learning purposes and will be updated gradually.
