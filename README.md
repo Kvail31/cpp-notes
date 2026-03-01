@@ -22,7 +22,7 @@ including programming, algorithms, and related notes.
 - [x] Arrays
 - [x] if / else
 - [x] Functions
-- [ ] Linked List
+- [x] Linked List
 - [ ] Stack
 
 This repository is for learning purposes and will be updated gradually.
